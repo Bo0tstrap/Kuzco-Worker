@@ -1,6 +1,6 @@
 # Kuzco-Worker
 Kuzco io net benzeri puan toplama client kurulumu
-VPS veya macos için anlatıyorum
+(VPS veya macos için anlatıyorum)
 
 Çok early daha yatırımı bile yok kurulum çok basit ubuntu da %99 cpu kullanımı var.
 
@@ -13,7 +13,7 @@ sol menüden Workers e girelim, sağ üstten create worker
 ![image](https://github.com/user-attachments/assets/75e5a54d-7090-4a26-9c82-57104c6a5dc4)
 
 
-isim belirleyelim ubuntu vs vps den kuracaksak cli seçelim
+isim belirleyelim cli seçelim
 ![image](https://github.com/user-attachments/assets/4bc782f9-d02d-4583-b17e-421b260c5174)
 
 
