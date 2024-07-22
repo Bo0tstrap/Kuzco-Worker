@@ -1,5 +1,6 @@
 # Kuzco-Worker
-Kuzco io net benzeri puan toplama client kurulumu 
+Kuzco io net benzeri puan toplama client kurulumu
+VPS veya macos için anlatıyorum
 
 Çok early daha yatırımı bile yok kurulum çok basit ubuntu da %99 cpu kullanımı var.
 
