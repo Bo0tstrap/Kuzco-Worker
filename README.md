@@ -16,7 +16,7 @@ isim belirleyelim ubuntu vs vps den kurcaksak cli seçelim
 ![image](https://github.com/user-attachments/assets/4bc782f9-d02d-4583-b17e-421b260c5174)
 
 
-gelen sayfadan launch worker tıklayıp gelen komutları terminalden screen açıp tek tek girelim 
+gelen sayfadan launch worker tıklayıp gelen komutları terminalden screen açıp tek tek girelim. Login komutunda bizden mail ve şifre isteyecek onları atlamayalım.
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>screen -S kuzco
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="screen -S kuzco" tabindex="0" role="button">
