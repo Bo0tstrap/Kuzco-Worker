@@ -8,7 +8,7 @@ Linkten siteye kaydoluyoruz
 
 https://kuzco.xyz/
 
-sağ menüden Workers e girelim, sağ üstten create worker
+sol menüden Workers e girelim, sağ üstten create worker
 ![image](https://github.com/user-attachments/assets/75e5a54d-7090-4a26-9c82-57104c6a5dc4)
 
 
