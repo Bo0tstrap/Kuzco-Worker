@@ -16,4 +16,12 @@ isim belirleyelim ubuntu vs vps den kurcaksak cli seçelim
 ![image](https://github.com/user-attachments/assets/4bc782f9-d02d-4583-b17e-421b260c5174)
 
 
+gelen sayfadan launch worker tıklayıp gelen komutları terminalden screen açıp girelim 
+
+"screen -S kuzco"
+
+![image](https://github.com/user-attachments/assets/9a0401d1-dce7-46a4-8f0e-1208c7f2cbfd)
+
+
+
 
