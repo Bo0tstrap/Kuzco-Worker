@@ -64,7 +64,8 @@ açılan sayfadan sağ üstten launch worker tıklayıp gelen komutları termina
 ![image](https://github.com/user-attachments/assets/9a0401d1-dce7-46a4-8f0e-1208c7f2cbfd)
 
 
-Kurulum başarılı olursa şöyle online oalcağız
+Kurulum başarılı olursa şöyle online olacağız
+
 ![image](https://github.com/user-attachments/assets/f2298794-895c-417c-a0f3-09ea8db2ec6a)
 
 
