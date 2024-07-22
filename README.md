@@ -6,6 +6,7 @@ tek hesaptan istediğiniz kadar worker kurabilirsiniz
 
 Çok early daha yatırımı bile yok kurulum çok basit ubuntu da %99 cpu kullanımı var.
 
+Güncelleme
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>sudo apt update && sudo apt upgrade -y
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo apt update && sudo apt upgrade -y" tabindex="0" role="button">
