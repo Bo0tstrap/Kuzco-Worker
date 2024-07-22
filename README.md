@@ -36,7 +36,7 @@ bun kurlumu olup olmadığını kontrol edelim önce bu komutla
 
   
 
-Linkten siteye kaydoluyoruz
+Devam ediyoruz, linkten siteye kaydoluyoruz
 
 https://kuzco.xyz/
 
