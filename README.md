@@ -18,6 +18,7 @@ bun kurlumu olup olmadığını kontrol edelim önce bu komutla
   </div></div>
 
   !Eğer şöyle bir çıktı yoksa bu komutla bun kurulumu yapalım
+  
   ![image](https://github.com/user-attachments/assets/7c6f4e81-2208-4d3b-8557-0800c99ee1a8)
   <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>snap install bun-js
 
