@@ -17,7 +17,7 @@ bun kurlumu olup olmadığını kontrol edelim önce bu komutla
     </clipboard-copy>
   </div></div>
 
-  Eğer şöyle bir çıktı yoksa bu komutla bun kurulumu yapalım
+  Eğer şöyle bir çıktı yoksa bu komutla bun kurulumu yapalım, bun versiyon 1.1.20 olması gerekiyor
   
   ![image](https://github.com/user-attachments/assets/7c6f4e81-2208-4d3b-8557-0800c99ee1a8)
   <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>snap install bun-js
