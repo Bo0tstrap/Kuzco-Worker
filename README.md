@@ -17,7 +17,7 @@ isim belirleyelim ubuntu vs vps den kurcaksak cli seçelim
 
 
 gelen sayfadan launch worker tıklayıp gelen komutları terminalden screen açıp girelim 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>curl -sL1 https://raw.githubusercontent.com/Dwtexe/Airchains-MonitorAddon/main/AirchainsMonitor.sh | bash
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>screen -S kuzco
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="screen -S kuzco" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
@@ -28,7 +28,6 @@ gelen sayfadan launch worker tıklayıp gelen komutları terminalden screen aç�
 </svg>
     </clipboard-copy>
   </div></div>
-"screen -S kuzco"
 
 ![image](https://github.com/user-attachments/assets/9a0401d1-dce7-46a4-8f0e-1208c7f2cbfd)
 
